@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "E:/Flutter_projects/MVVM Model/mvvm_app/windows/flutter"
+}
